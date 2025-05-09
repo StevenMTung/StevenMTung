@@ -1,9 +1,9 @@
-## Olá! Eu sou o Steven Tung!
+## Hey folks! I'm Steven Tung!
 
-- 🔭 Hoje trabalho com desenvolvimento mobile android nativo
-- 🌱 Estudando formas de integrar AI em apps android nativo
-- 📫 Contate-me no e-mail: stevenmtung@outlook.com
--  😄 Pronouns: ele/dele
+- 🔭 I'm native Android mobile developer
+- 🌱 Developing personal projects and Android Applications.
+- 📫 Contact me at the email: stevenmtung@outlook.com
+-  😄 Pronouns: he/him
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StevenMTung&show_icons=true&theme=dark"/>
